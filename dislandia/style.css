@@ -10,7 +10,7 @@ img{
 }
 
 .boton{
-margin-top: 2%;
+margin-top: 3%;
 margin-left: 6.5%;
 margin-bottom: 3%;
 }
@@ -21,6 +21,6 @@ a{
     text-decoration: none;
     background-color: #022626;
     padding: 14px 20px;
-    border-radius: 30px;
+    border-color: 2px solid #011313;
     color: white;
 }
