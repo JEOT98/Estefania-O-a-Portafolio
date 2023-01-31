@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    padding: 0 6.7%;
+}
+
+.boton{
+margin-top: 2%;
+margin-left: 84%;
+margin-bottom: 3%;
+}
+
+a{
+    margin-top: 10%;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    background-color: #022626;
+    padding: 14px 20px;
+    border-radius: 30px;
+    color: white;
+}
